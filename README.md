@@ -1,0 +1,2 @@
+# webkit-css
+This is a CSS file for commonly used styles in web applications. This saves your time when you are using custom html css.
